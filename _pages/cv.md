@@ -16,21 +16,8 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Coding
 ======
 * Stata
@@ -54,8 +41,10 @@ Teaching
 * National University of La Plata: Teaching Assistant
   * <em>Advanced Econometrics</em>, Masters in Economics program. 2023-2024
   * <em>Pyhton for Economists</em>, Masters in Economics program. 2023-2024
+ 
+* National University of Tucumán: Research & Teaching Assistant
+  * <em>Macroeconomics II</em>, Bachelor in Economics program. 2019-2021
 
-  
-Service and leadership
+Service 
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer at Mujeres x Mujeres foundation
