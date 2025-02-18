@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "María Agostina Zulli"
+title                    : "WELCOME"
 title_separator          : "-"
 name                     : &name "Agostina"
 description              : &description "Economist"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : ""
+  name             : "María Agostina Zulli"
   pronouns         : # example: "she/her"  
   bio              : "Economist"
   location         : "Buenos Aires, Argentina"
