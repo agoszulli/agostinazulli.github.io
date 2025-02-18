@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master in Economics, National University of La Plata, 2024
+* Bachelor in Economics, National University of Tucumán, 2021
 
 Work experience
 ======
@@ -32,14 +31,11 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Coding
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Stata
+* Python
+* R
 
 Publications
 ======
@@ -55,9 +51,10 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* National University of La Plata: Teaching Assistant
+  * <em>Advanced Econometrics</em>, Masters in Economics program. 2023-2024
+  * <em>Pyhton for Economists</em>, Masters in Economics program. 2023-2024
+
   
 Service and leadership
 ======
