@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Economist"
   location         : "Buenos Aires, Argentina"
-  employer         : "Center for Distributive, Labor, and Social Studies (CEDLAS) "
+  employer         : "CEDLAS"
   uri              : # URL
   email            : "agostinazulli@gmail.com" 
 
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : @agoszulli # @ for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
